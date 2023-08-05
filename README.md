@@ -1,6 +1,6 @@
 # Todo List
 
-Simple Todo list build using vue.
+Simple Todo list built using vue.
 
 ## Project Setup
 
